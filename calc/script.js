@@ -54,7 +54,7 @@ class Calculator{
         this.operation = undefined
         this.previousOperand = ''
     }
-
+    // Error, dan coding ulang
     // getDisplayNumber(number){
     //     const stringNumber = number.toString()
     //     const integerDigits = parseFloat(stringNumber.split('.')[0])
@@ -93,6 +93,7 @@ class Calculator{
     }
   }
 
+// Ini juga Error, dan coding ulang
 //     updateDisplay(){
 //         this.currentOperandTextElement.innerText = 
 //         this.getDisplayNumber(this.currentOperand)
